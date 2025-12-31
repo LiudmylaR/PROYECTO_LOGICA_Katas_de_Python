@@ -15,8 +15,8 @@ Este proyecto consiste en aplicar los conocimientos adquiridos en el módulo de 
 
 :books: Estructura del Proyecto\
 :file_folder: Proyecto: Lógica. Katas de Python\
-├──:bar_chart: Archivo Python con los ejercicios resueltos: Proyecto_LogicaPython.py\
-├──:page_with_curl: Archivo README.md
+├── :bar_chart: Archivo Python con los ejercicios resueltos: Proyecto_LogicaPython.py\
+├── :page_with_curl: Archivo README.md
 
 :nut_and_bolt: Herramientas Utilizadas
 - Python 3: Lenguaje de programación empleado en el desarrollo del proyecto.
